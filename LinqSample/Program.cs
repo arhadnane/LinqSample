@@ -18,3 +18,12 @@ LinqSample.Concat.Sample_Concat_Lambda_Strings();
 
 //OrderBy
 LinqSample.Ordering.Sample_OrderBy_Lambda_Objects();
+
+//Conversion
+LinqSample.Conversion.Sample_AsEnumerable_Lambda();
+
+//Cast
+LinqSample.Conversion.Sample_Cast_Lambda();
+
+//Element
+LinqSample.Element.Sample_SingleOrDefault_Lambda();
